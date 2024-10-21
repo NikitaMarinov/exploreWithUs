@@ -1,0 +1,10 @@
+INSERT INTO excursion (id, name, description, price) VALUES (1, 'Горная экскурсия', 'Экскурсия по живописным горам', 1500);
+INSERT INTO excursion (id, name, description, price) VALUES (2, 'Экскурсия по историческим местам', 'Посещение музеев и памятников', 1200);
+INSERT INTO excursion (id, name, description, price) VALUES (3, 'Круиз по реке', 'Речное путешествие с великолепными видами', 2000);
+INSERT INTO excursion (id, name, description, price) VALUES (4, 'Сафари на джипах', 'Приключение по дикой природе', 3000);
+INSERT INTO excursion (id, name, description, price) VALUES (5, 'Кулинарный мастер-класс', 'Изучение местной кухни', 1800);
+INSERT INTO excursion (id, name, description, price) VALUES (6, 'Дайвинг в коралловом рифе', 'Незабываемые подводные приключения', 2500);
+INSERT INTO excursion (id, name, description, price) VALUES (7, 'Поездка на велосипеде', 'Активный отдых на природе', 1000);
+INSERT INTO excursion (id, name, description, price) VALUES (8, 'Экскурсия по винодельням', 'Дегустация местных вин', 2200);
+INSERT INTO excursion (id, name, description, price) VALUES (9, 'Пешеходная экскурсия', 'Прогулка по красивым местам', 800);
+INSERT INTO excursion (id, name, description, price) VALUES (10, 'Ночной тур по городу', 'Увлекательные истории и вечерние виды', 1600);
